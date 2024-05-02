@@ -1,0 +1,327 @@
+
+2024-03-27 01:20:45 -0400 --------------------------------------------------------------------------------
+ENV:
+---
+SHELL: "/usr/bin/zsh"
+SESSION_MANAGER: local/ganpatuni.vish.edu:@/tmp/.ICE-unix/1176,unix/ganpatuni.vish.edu:/tmp/.ICE-unix/1176
+WINDOWID: '0'
+QT_ACCESSIBILITY: '1'
+COLORTERM: truecolor
+XDG_CONFIG_DIRS: "/etc/xdg"
+XDG_SESSION_PATH: "/org/freedesktop/DisplayManager/Session0"
+XDG_MENU_PREFIX: xfce-
+POWERSHELL_UPDATECHECK: 'Off'
+LANGUAGE: ''
+LESS_TERMCAP_se: "\e[0m"
+LESS_TERMCAP_so: "\e[01;33m"
+POWERSHELL_TELEMETRY_OPTOUT: '1'
+SSH_AUTH_SOCK: "/tmp/ssh-8sNTji7O0bZP/agent.1176"
+DOTNET_CLI_TELEMETRY_OPTOUT: '1'
+MY_RUBY_HOME: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib/ruby"
+DESKTOP_SESSION: lightdm-xsession
+SSH_AGENT_PID: '1240'
+GTK_MODULES: gail:atk-bridge
+RUBY_VERSION: ruby-2.7.5
+XDG_SEAT: seat0
+PWD: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin"
+XDG_SESSION_DESKTOP: lightdm-xsession
+LOGNAME: kali
+QT_QPA_PLATFORMTHEME: qt5ct
+XDG_SESSION_TYPE: x11
+PANEL_GDK_CORE_DEVICE_EVENTS: '0'
+XAUTHORITY: "/home/kali/.Xauthority"
+XDG_GREETER_DATA_DIR: "/var/lib/lightdm/data/kali"
+HOST_PATH: "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games"
+COMMAND_NOT_FOUND_INSTALL_PROMPT: '1'
+HOME: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/home/arachni"
+LANG: en_US.UTF-8
+LS_COLORS: 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90::ow=30;44:'
+XDG_CURRENT_DESKTOP: XFCE
+XDG_SEAT_PATH: "/org/freedesktop/DisplayManager/Seat0"
+GEM_PATH: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/gems"
+GEM_HOME: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/.system/gems"
+XDG_SESSION_CLASS: user
+TERM: xterm-256color
+LESS_TERMCAP_mb: "\e[1;31m"
+LESS_TERMCAP_me: "\e[0m"
+LESS_TERMCAP_md: "\e[1;36m"
+CPLUS_INCLUDE_PATH: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/include"
+USER: kali
+LIBRARY_PATH: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib:/usr/lib:/usr/local/lib"
+COLORFGBG: 15;0
+DISPLAY: ":0.0"
+LESS_TERMCAP_ue: "\e[0m"
+SHLVL: '1'
+LESS_TERMCAP_us: "\e[1;32m"
+ARACHNI_FRAMEWORK_LOGDIR: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/../logs/framework"
+XDG_VTNR: '7'
+XDG_SESSION_ID: '2'
+LD_LIBRARY_PATH: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib:/usr/lib:/usr/local/lib"
+XDG_RUNTIME_DIR: "/run/user/1000"
+QT_AUTO_SCREEN_SCALE_FACTOR: '0'
+XDG_DATA_DIRS: "/usr/share/xfce4:/usr/local/share/:/usr/share/:/usr/share"
+ARACHNI_WEBUI_LOGDIR: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/../logs/webui"
+PATH: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/.system/gems/bin:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/../bin:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/bin:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/gems/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games"
+GDMSESSION: lightdm-xsession
+RAILS_ENV: production
+DBUS_SESSION_BUS_ADDRESS: unix:path=/run/user/1000/bus
+C_INCLUDE_PATH: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/include"
+IRBRC: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib/ruby/.irbrc"
+_JAVA_OPTIONS: "-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true"
+RUBYLIB: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/.system/usr/lib/ruby/site_ruby/2.7.0:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib/ruby:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib/ruby/site_ruby/2.7.0:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib/ruby/2.7.0:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib/ruby/2.7.0/x86_64-linux:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib/ruby/site_ruby/2.7.0/x86_64-linux"
+OLDPWD: "/home/kali"
+RACK_ENV: development
+BUNDLE_GEMFILE: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/.system/arachni-ui-web/Gemfile"
+BUNDLER_ORIG_BUNDLE_BIN_PATH: BUNDLER_ENVIRONMENT_PRESERVER_INTENTIONALLY_NIL
+BUNDLER_ORIG_BUNDLE_GEMFILE: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/.system/arachni-ui-web/Gemfile"
+BUNDLER_ORIG_BUNDLER_VERSION: BUNDLER_ENVIRONMENT_PRESERVER_INTENTIONALLY_NIL
+BUNDLER_ORIG_GEM_HOME: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/gems"
+BUNDLER_ORIG_GEM_PATH: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/gems"
+BUNDLER_ORIG_MANPATH: BUNDLER_ENVIRONMENT_PRESERVER_INTENTIONALLY_NIL
+BUNDLER_ORIG_PATH: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/../bin:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/bin:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/gems/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games"
+BUNDLER_ORIG_RB_USER_INSTALL: BUNDLER_ENVIRONMENT_PRESERVER_INTENTIONALLY_NIL
+BUNDLER_ORIG_RUBYLIB: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib/ruby:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib/ruby/site_ruby/2.7.0:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib/ruby/2.7.0:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib/ruby/2.7.0/x86_64-linux:/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/bin/../.system/usr/lib/ruby/site_ruby/2.7.0/x86_64-linux"
+BUNDLER_ORIG_RUBYOPT: BUNDLER_ENVIRONMENT_PRESERVER_INTENTIONALLY_NIL
+BUNDLE_BIN_PATH: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/.system/gems/gems/bundler-2.3.14/exe/bundle"
+BUNDLER_VERSION: 2.3.14
+RUBYOPT: "-r/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/.system/usr/lib/ruby/site_ruby/2.7.0/bundler/setup"
+MANPATH: "/home/kali/Downloads/arachni-1.6.1.3-0.6.1.1/.system/gems/gems/kramdown-2.4.0/man"
+arachni_options: BAh7FzoJaHR0cHsOOg91c2VyX2FnZW50SSIpTW96aWxsYS81LjAgKEdlY2tvKSBBcmFjaG5pL3YxLjYuMS4zBjoGRVQ6FHJlcXVlc3RfdGltZW91dGkCIE46G3JlcXVlc3RfcmVkaXJlY3RfbGltaXRpCjoYcmVxdWVzdF9jb25jdXJyZW5jeWkPOhdyZXF1ZXN0X3F1ZXVlX3NpemVpNzoUcmVxdWVzdF9oZWFkZXJzewA6FnJlc3BvbnNlX21heF9zaXplaQMgoQc6DGNvb2tpZXN7ADoYYXV0aGVudGljYXRpb25fdHlwZUkiCWF1dG8GOwdUOg1zbmFwc2hvdHsGOg5zYXZlX3BhdGgwOgtvdXRwdXR7ADoKaW5wdXR7CToLdmFsdWVzewA6E2RlZmF1bHRfdmFsdWVzew9JIgluYW1lBjsHRkkiEWFyYWNobmlfbmFtZQY7B1RJIgl1c2VyBjsHRkkiEWFyYWNobmlfdXNlcgY7B1RJIgh1c3IGOwdGSSIRYXJhY2huaV91c2VyBjsHVEkiCXBhc3MGOwdGSSIZNTU0MyElYXJhY2huaV9zZWNyZXQGOwdUSSIIdHh0BjsHRkkiEWFyYWNobmlfdGV4dAY7B1RJIghudW0GOwdGSSIIMTMyBjsHVEkiC2Ftb3VudAY7B0ZJIggxMDAGOwdUSSIJbWFpbAY7B0ZJIhVhcmFjaG5pQGVtYWlsLmdyBjsHVEkiDGFjY291bnQGOwdGSSIHMTIGOwdUSSIHaWQGOwdGSSIGMQY7B1Q6FXdpdGhvdXRfZGVmYXVsdHNGOgpmb3JjZUY6FGJyb3dzZXJfY2x1c3RlcnsPOhJsb2NhbF9zdG9yYWdlewA6FHNlc3Npb25fc3RvcmFnZXsAOhZ3YWl0X2Zvcl9lbGVtZW50c3sAOhR3YWl0X2Zvcl90aW1lcnNGOg5wb29sX3NpemVpCToQam9iX3RpbWVvdXRpQToYd29ya2VyX3RpbWVfdG9fbGl2ZWkB+joSaWdub3JlX2ltYWdlc0Y6EXNjcmVlbl93aWR0aGkCQAY6EnNjcmVlbl9oZWlnaHRpArAEOghycGN7CDoSc2VydmVyX3NvY2tldDA6EHNlcnZlcl9wb3J0aQL3YzoTc2VydmVyX2FkZHJlc3NJIg4xMjcuMC4wLjEGOwdUOg5kYXRhc3RvcmV7ADoPZGlzcGF0Y2hlcnsIOhdub2RlX3BpbmdfaW50ZXJ2YWxmCDZlMToYaW5zdGFuY2VfcG9ydF9yYW5nZVsHaQIBBGkC//87HWkKOgpzY29wZXsQOhpkaXJlY3RvcnlfZGVwdGhfbGltaXRpDzoZYXV0b19yZWR1bmRhbnRfcGF0aHNpFDoccmVkdW5kYW50X3BhdGhfcGF0dGVybnN7ADoUZG9tX2RlcHRoX2xpbWl0aQk6HGV4Y2x1ZGVfZmlsZV9leHRlbnNpb25zbzoIU2V0BjoKQGhhc2h9U0kiCGdpZgY7B1RUSSIIYm1wBjsHVFRJIgh0aWYGOwdUVEkiCXRpZmYGOwdUVEkiCGpwZwY7B1RUSSIJanBlZwY7B1RUSSIIanBlBjsHVFRJIgpwanBlZwY7B1RUSSIIcG5nBjsHVFRJIghpY28GOwdUVEkiCHBzZAY7B1RUSSIIeGNmBjsHVFRJIggzZG0GOwdUVEkiCG1heAY7B1RUSSIIc3ZnBjsHVFRJIghlcHMGOwdUVEkiCGRydwY7B1RUSSIHYWkGOwdUVEkiCGFzZgY7B1RUSSIHcm0GOwdUVEkiCG1wZwY7B1RUSSIJbXBlZwY7B1RUSSIIbXBlBjsHVFRJIggzZ3AGOwdUVEkiCDNnMgY7B1RUSSIIYXZpBjsHVFRJIghmbHYGOwdUVEkiCG1vdgY7B1RUSSIIbXA0BjsHVFRJIghzd2YGOwdUVEkiCHZvYgY7B1RUSSIId212BjsHVFRJIghhaWYGOwdUVEkiCG1wMwY7B1RUSSIIbXBhBjsHVFRJIgdyYQY7B1RUSSIId2F2BjsHVFRJIgh3bWEGOwdUVEkiCG1pZAY7B1RUSSIIbTRhBjsHVFRJIghvZ2cGOwdUVEkiCWZsYWMGOwdUVEkiCHppcAY7B1RUSSIJemlweAY7B1RUSSIIdGFyBjsHVFRJIgdnegY7B1RUSSIHN3oGOwdUVEkiCHJhcgY7B1RUSSIIYnoyBjsHVFRJIghiaW4GOwdUVEkiCGN1ZQY7B1RUSSIIZG1nBjsHVFRJIghpc28GOwdUVEkiCG1kZgY7B1RUSSIIdmNkBjsHVFRJIghyYXcGOwdUVEkiCGV4ZQY7B1RUSSIIYXBrBjsHVFRJIghhcHAGOwdUVEkiCGphcgY7B1RUSSIIcGtnBjsHVFRJIghkZWIGOwdUVEkiCHJwbQY7B1RUSSIIbXNpBjsHVFRJIgh0dGYGOwdUVEkiCG90ZgY7B1RUSSIJd29mZgY7B1RUSSIKd29mZjIGOwdUVEkiCGZvbgY7B1RUSSIIZm50BjsHVFRJIghjc3MGOwdUVEkiB2pzBjsHVFRJIghwZGYGOwdUVEkiCWRvY3gGOwdUVEkiCXhsc3gGOwdUVEkiCXBwdHgGOwdUVEkiCG9kdAY7B1RUSSIIb2RwBjsHVFRGOhpleGNsdWRlX3BhdGhfcGF0dGVybnNbADodZXhjbHVkZV9jb250ZW50X3BhdHRlcm5zWwA6GmluY2x1ZGVfcGF0aF9wYXR0ZXJuc1sAOhNyZXN0cmljdF9wYXRoc1sAOhFleHRlbmRfcGF0aHNbADoRdXJsX3Jld3JpdGVzewA6CmF1ZGl0ewk6FXBhcmFtZXRlcl92YWx1ZXNUOhxleGNsdWRlX3ZlY3Rvcl9wYXR0ZXJuc1sAOhxpbmNsdWRlX3ZlY3Rvcl9wYXR0ZXJuc1sAOhNsaW5rX3RlbXBsYXRlc1sAOgxzZXNzaW9uewA6C2NoZWNrc1sAOg5wbGF0Zm9ybXNbADoMcGx1Z2luc3sAOgtzcGF3bnMwOhZub19maW5nZXJwcmludGluZ0Y6EmF1dGhvcml6ZWRfYnkwOgpwYXRoc3sVOglyb290SSJUL2hvbWUva2FsaS9Eb3dubG9hZHMvYXJhY2huaS0xLjYuMS4zLTAuNi4xLjEvLnN5c3RlbS9nZW1zL2dlbXMvYXJhY2huaS0xLjYuMS4zLwY7B0Y6CGdmeEkiWC9ob21lL2thbGkvRG93bmxvYWRzL2FyYWNobmktMS42LjEuMy0wLjYuMS4xLy5zeXN0ZW0vZ2Vtcy9nZW1zL2FyYWNobmktMS42LjEuMy9nZngvBjsHRjoPY29tcG9uZW50c0kiXy9ob21lL2thbGkvRG93bmxvYWRzL2FyYWNobmktMS42LjEuMy0wLjYuMS4xLy5zeXN0ZW0vZ2Vtcy9nZW1zL2FyYWNobmktMS42LjEuMy9jb21wb25lbnRzLwY7B0Y6DnNuYXBzaG90c0kiXi9ob21lL2thbGkvRG93bmxvYWRzL2FyYWNobmktMS42LjEuMy0wLjYuMS4xLy5zeXN0ZW0vZ2Vtcy9nZW1zL2FyYWNobmktMS42LjEuMy9zbmFwc2hvdHMvBjsHRjoJbG9nc0kiUy9ob21lL2thbGkvRG93bmxvYWRzL2FyYWNobmktMS42LjEuMy0wLjYuMS4xL2Jpbi8uLi8uc3lzdGVtLy4uL2xvZ3MvZnJhbWV3b3JrLwY7B1Q7P0kiZi9ob21lL2thbGkvRG93bmxvYWRzL2FyYWNobmktMS42LjEuMy0wLjYuMS4xLy5zeXN0ZW0vZ2Vtcy9nZW1zL2FyYWNobmktMS42LjEuMy9jb21wb25lbnRzL2NoZWNrcy8GOwdGOg5yZXBvcnRlcnNJImkvaG9tZS9rYWxpL0Rvd25sb2Fkcy9hcmFjaG5pLTEuNi4xLjMtMC42LjEuMS8uc3lzdGVtL2dlbXMvZ2Vtcy9hcmFjaG5pLTEuNi4xLjMvY29tcG9uZW50cy9yZXBvcnRlcnMvBjsHRjtBSSJnL2hvbWUva2FsaS9Eb3dubG9hZHMvYXJhY2huaS0xLjYuMS4zLTAuNi4xLjEvLnN5c3RlbS9nZW1zL2dlbXMvYXJhY2huaS0xLjYuMS4zL2NvbXBvbmVudHMvcGx1Z2lucy8GOwdGOg1zZXJ2aWNlc0kiaC9ob21lL2thbGkvRG93bmxvYWRzL2FyYWNobmktMS42LjEuMy0wLjYuMS4xLy5zeXN0ZW0vZ2Vtcy9nZW1zL2FyYWNobmktMS42LjEuMy9jb21wb25lbnRzL3NlcnZpY2VzLwY7B0Y6FHBhdGhfZXh0cmFjdG9yc0kiby9ob21lL2thbGkvRG93bmxvYWRzL2FyYWNobmktMS42LjEuMy0wLjYuMS4xLy5zeXN0ZW0vZ2Vtcy9nZW1zL2FyYWNobmktMS42LjEuMy9jb21wb25lbnRzL3BhdGhfZXh0cmFjdG9ycy8GOwdGOhNmaW5nZXJwcmludGVyc0kibi9ob21lL2thbGkvRG93bmxvYWRzL2FyYWNobmktMS42LjEuMy0wLjYuMS4xLy5zeXN0ZW0vZ2Vtcy9nZW1zL2FyYWNobmktMS42LjEuMy9jb21wb25lbnRzL2ZpbmdlcnByaW50ZXJzLwY7B0Y6CGxpYkkiYC9ob21lL2thbGkvRG93bmxvYWRzL2FyYWNobmktMS42LjEuMy0wLjYuMS4xLy5zeXN0ZW0vZ2Vtcy9nZW1zL2FyYWNobmktMS42LjEuMy9saWIvYXJhY2huaS8GOwdGOhBleGVjdXRhYmxlc0kidi9ob21lL2thbGkvRG93bmxvYWRzL2FyYWNobmktMS42LjEuMy0wLjYuMS4xLy5zeXN0ZW0vZ2Vtcy9nZW1zL2FyYWNobmktMS42LjEuMy9saWIvYXJhY2huaS9wcm9jZXNzZXMvZXhlY3V0YWJsZXMvBjsHRjoMc3VwcG9ydEkiaC9ob21lL2thbGkvRG93bmxvYWRzL2FyYWNobmktMS42LjEuMy0wLjYuMS4xLy5zeXN0ZW0vZ2Vtcy9nZW1zL2FyYWNobmktMS42LjEuMy9saWIvYXJhY2huaS9zdXBwb3J0LwY7B0Y6C21peGluc0kiby9ob21lL2thbGkvRG93bmxvYWRzL2FyYWNobmktMS42LjEuMy0wLjYuMS4xLy5zeXN0ZW0vZ2Vtcy9nZW1zL2FyYWNobmktMS42LjEuMy9saWIvYXJhY2huaS9zdXBwb3J0L21peGlucy8GOwdGOgxhcmFjaG5pSSJfL2hvbWUva2FsaS9Eb3dubG9hZHMvYXJhY2huaS0xLjYuMS4zLTAuNi4xLjEvLnN5c3RlbS9nZW1zL2dlbXMvYXJhY2huaS0xLjYuMS4zL2xpYi9hcmFjaG5pBjsHRg==
+--------------------------------------------------------------------------------
+OPTIONS:
+---
+http:
+  user_agent: Mozilla/5.0 (Gecko) Arachni/v1.6.1.3
+  request_timeout: 20000
+  request_redirect_limit: 5
+  request_concurrency: 10
+  request_queue_size: 50
+  request_headers: {}
+  response_max_size: 500000
+  cookies: {}
+  authentication_type: auto
+input:
+  values:
+    name: arachni_name
+    user: arachni_user
+    usr: arachni_user
+    pass: 5543!%arachni_secret
+    txt: arachni_text
+    num: '132'
+    amount: '100'
+    mail: arachni@email.gr
+    account: '12'
+    id: '1'
+  default_values:
+    name: arachni_name
+    user: arachni_user
+    usr: arachni_user
+    pass: 5543!%arachni_secret
+    txt: arachni_text
+    num: '132'
+    amount: '100'
+    mail: arachni@email.gr
+    account: '12'
+    id: '1'
+  without_defaults: true
+  force: false
+browser_cluster:
+  local_storage: {}
+  session_storage: {}
+  wait_for_elements: {}
+  wait_for_timers: false
+  pool_size: 4
+  job_timeout: 60
+  worker_time_to_live: 250
+  ignore_images: false
+  screen_width: 1600
+  screen_height: 1200
+datastore:
+  token: 4dcb62a4f18496c7ac70d69f3ac5d845
+scope:
+  directory_depth_limit: 10
+  auto_redundant_paths: 15
+  redundant_path_patterns: {}
+  dom_depth_limit: 4
+  exclude_file_extensions:
+  - gif
+  - bmp
+  - tif
+  - tiff
+  - jpg
+  - jpeg
+  - jpe
+  - pjpeg
+  - png
+  - ico
+  - psd
+  - xcf
+  - 3dm
+  - max
+  - svg
+  - eps
+  - drw
+  - ai
+  - asf
+  - rm
+  - mpg
+  - mpeg
+  - mpe
+  - 3gp
+  - 3g2
+  - avi
+  - flv
+  - mov
+  - mp4
+  - swf
+  - vob
+  - wmv
+  - aif
+  - mp3
+  - mpa
+  - ra
+  - wav
+  - wma
+  - mid
+  - m4a
+  - ogg
+  - flac
+  - zip
+  - zipx
+  - tar
+  - gz
+  - 7z
+  - rar
+  - bz2
+  - bin
+  - cue
+  - dmg
+  - iso
+  - mdf
+  - vcd
+  - raw
+  - exe
+  - apk
+  - app
+  - jar
+  - pkg
+  - deb
+  - rpm
+  - msi
+  - ttf
+  - otf
+  - woff
+  - woff2
+  - fon
+  - fnt
+  - css
+  - js
+  - pdf
+  - docx
+  - xlsx
+  - pptx
+  - odt
+  - odp
+  exclude_path_patterns: []
+  exclude_content_patterns: []
+  include_path_patterns: []
+  restrict_paths: []
+  extend_paths: []
+  url_rewrites: {}
+audit:
+  parameter_values: true
+  exclude_vector_patterns: []
+  include_vector_patterns: []
+  link_templates: []
+  links: true
+  forms: true
+  cookies: true
+  jsons: true
+  xmls: true
+  ui_forms: true
+  ui_inputs: true
+  nested_cookies: true
+session: {}
+checks:
+- allowed_methods
+- backdoors
+- backup_directories
+- backup_files
+- captcha
+- code_injection
+- code_injection_php_input_wrapper
+- code_injection_timing
+- common_admin_interfaces
+- common_directories
+- common_files
+- cookie_set_for_parent_domain
+- credit_card
+- csrf
+- cvs_svn_users
+- directory_listing
+- emails
+- file_inclusion
+- form_upload
+- hsts
+- htaccess_limit
+- html_objects
+- http_only_cookies
+- http_put
+- insecure_client_access_policy
+- insecure_cookies
+- insecure_cors_policy
+- insecure_cross_domain_policy_access
+- insecure_cross_domain_policy_headers
+- interesting_responses
+- ldap_injection
+- localstart_asp
+- mixed_resource
+- no_sql_injection
+- no_sql_injection_differential
+- origin_spoof_access_restriction_bypass
+- os_cmd_injection
+- os_cmd_injection_timing
+- password_autocomplete
+- path_traversal
+- private_ip
+- response_splitting
+- rfi
+- session_fixation
+- source_code_disclosure
+- sql_injection
+- sql_injection_differential
+- sql_injection_timing
+- ssn
+- trainer
+- unencrypted_password_forms
+- unvalidated_redirect
+- unvalidated_redirect_dom
+- webdav
+- x_frame_options
+- xpath_injection
+- xss
+- xss_dom
+- xss_dom_script_context
+- xss_event
+- xss_path
+- xss_script_context
+- xss_tag
+- xst
+- xxe
+platforms: []
+plugins:
+  autothrottle: {}
+  discovery: {}
+  healthmap: {}
+  timing_attacks: {}
+  uniformity: {}
+no_fingerprinting: false
+authorized_by: 
+url: https://www.shopsy.in/
+--------------------------------------------------------------------------------
+[2024-03-27 01:20:45 -0400] [HTTP: 200] https://www.shopsy.in/sitemap_s_shopsy_store-browse.xml
+[2024-03-27 01:20:45 -0400] [use_ssl_failed] Maximum file size exceeded
+[2024-03-27 01:31:23 -0400] [HTTP: 200] https://www.shopsy.in/sitemap_v_shopsy_view-browse.xml
+[2024-03-27 01:31:23 -0400] [use_ssl_failed] Maximum file size exceeded
+[2024-03-27 01:48:16 -0400] [HTTP: 200] https://www.shopsy.in/sitemap_s_shopsy_store-browse-structured-urls.xml
+[2024-03-27 01:48:16 -0400] [use_ssl_failed] Maximum file size exceeded
